@@ -1,0 +1,2 @@
+# gittraining
+This my repository
